@@ -1,5 +1,22 @@
 # @hyperdx/common-utils
 
+## 0.18.0
+
+### Minor Changes
+
+- 5885d47: Introduces Shared Filters, enabling teams to pin and surface common filters across all members.
+
+### Patch Changes
+
+- 418f70c: Add Drain log template mining library (ported from browser-drain)
+- 1fada91: feat: Support alerts on Raw SQL Number Charts
+- 7953c02: feat: Add between-type alert thresholds
+- d3a61f9: feat: Add additional alert threshold types
+- cc714f9: fix: Skip rendering empty SQL dashboard filter
+- 085f307: feat: Implement alerting for Raw SQL-based dashboard tiles
+- 3c05772: feat: Show alert execution errors in the UI
+- 6ff1ba6: feat: Add alert history + ack to alert editor
+
 ## 0.17.1
 
 ### Patch Changes
